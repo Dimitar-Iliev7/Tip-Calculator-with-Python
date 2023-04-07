@@ -13,4 +13,4 @@ ___
 1. Run the tip_calculator.py file using the Python interpreter. python tip_calculator.py
 1. Follow the instructions provided by the program and enter the required inputs when prompted.
 1. The program will calculate the total tip amount, the total bill amount including the tip, and the amount each person should contribute.
-1. 
+
